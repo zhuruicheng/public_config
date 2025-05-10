@@ -1,1 +1,39 @@
-{"master":{"ip":"0.0.0.0","port":"2345","train_port":"8880","train_buflen":"5120","global_data":"0.0.0.0","global_data_port":"2207"},"player":{"ip":"0.0.0.0","port":"2000"},"redis":{"ip":"172.21.0.110","port":"6379"},"staff":{"ip":"172.21.0.110","port":"2345","global_data":"127.0.0.1","global_data_port":"2207"},"predict":{"ip":"127.0.0.1","port":"8880"},"datnban":{"ip":"172.21.0.110","name":"root","dbname":"gtbot","port":"1122"},"remote_file_system":{"url":"http:\/\/file.gtbot.work\/main.php"},"api":"https:\/\/api.gtbot.work\/main.php","webip":"8.217.83.67"}
+{
+  "master": {
+    "ip": "0.0.0.0",
+    "port": "2345",
+    "train_port": "8880",
+    "train_buflen": "5120",
+    "global_data": "0.0.0.0",
+    "global_data_port": "2207"
+  },
+  "player": {
+    "ip": "0.0.0.0",
+    "port": "2000"
+  },
+  "redis": {
+    "ip": "172.21.0.110",
+    "port": "6379"
+  },
+  "staff": {
+    "ip": "172.21.0.110",
+    "port": "2345",
+    "global_data": "127.0.0.1",
+    "global_data_port": "2207"
+  },
+  "predict": {
+    "ip": "127.0.0.1",
+    "port": "8880"
+  },
+  "datnban": {
+    "ip": "172.21.0.110",
+    "name": "root",
+    "dbname": "gtbot",
+    "port": "1122"
+  },
+  "remote_file_system": {
+    "url": "http://file.gtbot.work/main.php"
+  },
+  "api": "https://api.gtbot.work/main.php",
+  "webip": "8.217.83.67"
+}
